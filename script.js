@@ -1,5 +1,3 @@
-import { Howl } from 'howler';
-
 const playPauseBtn = document.getElementById('playPauseBtn');
 const ambientSoundSelect = document.getElementById('ambientSoundSelect');
 const instructionDisplay = document.getElementById('instruction');
