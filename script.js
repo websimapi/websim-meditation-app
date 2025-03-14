@@ -101,4 +101,3 @@ function startBreathing() {
 // Initialize the app
 loadSound(sounds['forest']); // Default sound
 startBreathing();
-
